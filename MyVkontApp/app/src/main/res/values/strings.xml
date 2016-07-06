@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyVkontApp</string>
+    <integer name="com_vk_sdk_AppId">5536241</integer>
 </resources>
